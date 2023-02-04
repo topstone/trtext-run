@@ -1,0 +1,7 @@
+mount c .
+mount d ..\..\ 
+mount x ..\..\trtext\current\ 
+mount e ..\..\trtext-eng\current\ 
+mount f ..\..\trtext-french\current\ 
+mount g ..\..\trtext-grmn65\current\ 
+mount i ..\..\trtext-ine\current\ 
